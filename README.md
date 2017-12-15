@@ -4,34 +4,34 @@ minimal phenotypes
 
 defined data fields
 
-##famID	
+#famID	
 #001
 
-##primID	
+#primID	
 test
 
-##gender	
+#gender	
 female
 
-##primSYNDROME	
+#primSYNDROME	
 focal
 
-##famSYNDROME	
+#famSYNDROME	
 focal
 
-##onset	
+#onset	
 11
 
-##ID	
+#ID	
 no
 
-##HPO	
+#HPO	
 HP:0007334;HP:0011197;HP:0003621
 
-##fulltext	
+#fulltext	
 Patient had focal seizures starting at the age of 11 month; the phenotype field has commas replaced by semicolons
 
-##phenome	
+#phenome	
 MRI=3=normal;NEURODEV=10=normal;AEDRESPONSE=11=OCX=szfree;OUTCOME=15=szfree
 
 accepted data fields in phenome file:
